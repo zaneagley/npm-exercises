@@ -1,1 +1,4 @@
 *.iml
+public/main.js
+*.map
+node_modules
